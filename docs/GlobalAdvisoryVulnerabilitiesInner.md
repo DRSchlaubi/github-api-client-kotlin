@@ -1,0 +1,13 @@
+
+# GlobalAdvisoryVulnerabilitiesInner
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**&#x60;package&#x60;** | [**GlobalAdvisoryVulnerabilitiesInnerPackage**](GlobalAdvisoryVulnerabilitiesInnerPackage.md) |  | 
+**vulnerableVersionRange** | **kotlin.String** | The range of the package versions affected by the vulnerability. | 
+**firstPatchedVersion** | **kotlin.String** | The package version that resolve the vulnerability. | 
+**vulnerableFunctions** | **kotlin.collections.List&lt;kotlin.String&gt;** | The functions in the package that are affected by the vulnerability. | 
+
+
+
