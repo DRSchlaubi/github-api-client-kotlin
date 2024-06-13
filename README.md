@@ -13,8 +13,8 @@ For more information, please visit [https://support.github.com/contact?tags=dotc
 
 ## Requires
 
-* Kotlin 1.7.21
-* Gradle 7.5
+* Kotlin 2.0.0
+* Gradle 8.8
 
 ## Build
 
